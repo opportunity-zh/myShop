@@ -1,1 +1,1 @@
-# myShop
+# Wordpress Shop
